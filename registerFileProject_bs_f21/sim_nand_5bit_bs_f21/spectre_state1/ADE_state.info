@@ -1,0 +1,3 @@
+projectDir = '"~/cadence/simulation"
+designInfo = '("registerFileProject_bs_f21" "sim_nand_5bit_bs_f21" "schematic" "spectre")
+descriptionText = "None"
